@@ -22,9 +22,9 @@ Super-powers are granted randomly so please submit an issue if you're not happy 
 
 Once you're strong enough, save the world:
 
-| Encabezado 1 | Encabezado 2 | Encabezado 3 |
+| Nombre del Sistema|  | Versión x.x.x.x |
 | :--- | :--- | :--- |
-| test | texto | texto3 |
+| CyberClientes |  | 1.0.0.0 |
 
 {% code title="hello.sh" %}
 ```bash
