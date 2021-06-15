@@ -30,9 +30,9 @@
 | ValesApi | 1.0.2.1 |  |
 | valida-cfd | 1.0.0.0 |  |
 
-| Dependencias | Descripción | Link |
+| Dependencias | Descripción |  |
 | :--- | :--- | :--- |
-| CarRemo | Se requiere el modulo X, funcionalidad X; con el objetivo de reutilizar el seguimiento por guia. | https://github.com/arquitectosoftwarecastores/CasRemo |
+| * [CarRemo](https://github.com/arquitectosoftwarecastores/CasRemo) | Se requiere el modulo X, funcionalidad X; con el objetivo de reutilizar el seguimiento por guia. |  |
 | Facturación | En relación directa con el sistema de facturación mediante WebService X |  |
 | Área de RH | Es necesaria la intervención manual al sistema para el registro de usuarios |  |
 
