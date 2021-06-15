@@ -14,42 +14,22 @@
 
 ## Consideraciones técnicas
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Librerias internas</th>
-      <th style="text-align:left">Dependencias</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
-        <p>AjustesApi 1.0.1</p>
-        <p>CalculaGasolinera 1.0.5</p>
-        <p>CastoresBase 1.0.0</p>
-        <p>CastoresDao 1.0.32</p>
-        <p>CDC 1.0.21</p>
-        <p>CDCDao 1.0.4</p>
-        <p>CDCModel 1.0.4</p>
-        <p>cfdicastorestestv6</p>
-        <p>CriteriaApi 1.0.0</p>
-        <p>DataUtilsApi 1.0.0</p>
-        <p>SigPlus2_52</p>
-        <p>ValesApi 1.0.21</p>
-        <p>valida-cfd 1.0.0</p>
-      </td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-  </tbody>
-</table>
+| Libreria | Versión &lt;x.x.x.x.&gt; |
+| :--- | :--- |
+| AjustesApi | 1.0.1.0 |
+| CalculaGasolinera | 1.0.5 |
+| CastoresBase | 1.0.0 |
+| CastoresDao | 1.0.32 |
+| CDC | 1.0.21 |
+| CDCDao | 1.0.4 |
+| CDCModel | 1.0.4 |
+| cfdicastorestest | v6 |
+| CriteriaApi | 1.0.0 |
+| DataUtilsApi | 1.0.0 |
+| SigPlus | 2_52 |
+| ValesApi | 1.0.21 |
+| valida-cfd | 1.0.0 |
+ 
 
 ## Historial de cambios
 
