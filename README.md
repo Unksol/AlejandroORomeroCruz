@@ -1,6 +1,8 @@
-| Nombre del Sistema: | Versión |
+# README
+
+| Nombre del Sistema | Versión &lt;x.x.x.x.&gt; |
 | :--- | :--- |
-| CyberClientes | 1.0.0.0 |
+| **CyberClientes** | 1.0.0.0 |
 
 | _Titulo_ | _Descripción_ |
 | :--- | :--- |
@@ -11,12 +13,11 @@
 | **ID Ficha Técnica** | N/A |
 
 ## Historial de cambios
-| Nombre del Sistema: | Versión |
-| :--- | :--- |
-| CyberClientes | 1.0.0.0 |
 
-
-
+| Versión | Autor del cambio | Fecha de cambio | Descripción |
+| :--- | :--- | :--- | :--- |
+| 1.0.0.0 | ARomeroC | 15.06.2021\_10.50 | **Cambios al modulo X sobre funcionalidad X, sin afectación a otros sistemas o modulos. CC\_&lt;Sistema\_versión&gt;** |
+|  |  |  |  |
 
 ## README
 
@@ -55,7 +56,6 @@ Contenido 1
 Contenido 2
 {% endtab %}
 {% endtabs %}
-
 
 {% code title="hello.sh" %}
 ```bash
