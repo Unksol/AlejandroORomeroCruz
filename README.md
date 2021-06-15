@@ -41,7 +41,10 @@ Contenido 2
 | Nombre del Sistema: | Versión |
 | :--- | :--- |
 | CyberClientes | 1.0.0.0 |
-| Versión x.x.x.x | 1.0.0.0 |
+
+
+| Encabezado | Descripción |
+| :--- | :--- |
 | Área | Corporativo |
 | ProductOwner | Desarrollo TI |
 | Descripción del Sistema | Desde este sistema se ingresa al conjunto de sistemas del corporativo, se requiere autenticación para su ingreso y es de un alcance global, ya que se expone ante internet por la pagina principal www.castores.com.mx |
