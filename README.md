@@ -42,14 +42,13 @@ Contenido 2
 | :--- | :--- |
 | CyberClientes | 1.0.0.0 |
 
-
-| Titulo | Descripción |
+| _Titulo_ | _Descripción_ |
 | :--- | :--- |
-| Área | Corporativo |
-| ProductOwner | Desarrollo TI |
-| Descripción del Sistema | Desde este sistema se ingresa al conjunto de sistemas del corporativo, se requiere autenticación para su ingreso y es de un alcance global, ya que se expone ante internet por la pagina principal www.castores.com.mx |
-| Lenguaje Versión | JAVA 1.6 y IDE:Netbeans IDE 7.1 |
-| ID Ficha Técnica | N/A |
+| **Área** | Corporativo |
+| **ProductOwner** | Desarrollo TI |
+| **Descripción del Sistema** | Desde este sistema se ingresa al conjunto de sistemas del corporativo, se requiere autenticación para su ingreso y es de un alcance global, ya que se expone ante internet por la pagina principal www.castores.com.mx |
+| **Lenguaje / Versión** | _JAVA 1.6 / IDE:Netbeans IDE 7.1_ |
+| **ID Ficha Técnica** | N/A |
 
 {% code title="hello.sh" %}
 ```bash
