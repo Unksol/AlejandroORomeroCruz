@@ -35,6 +35,6 @@
 
 | Versión | Autor del cambio | Fecha de cambio | Descripción |
 | :--- | :--- | :--- | :--- |
-| 1.0.0.0 | ARomeroC | 15.06.2021\_10.50 | **Cambios al modulo X sobre funcionalidad X, sin afectación a otros sistemas o modulos. CC\_&lt;Sistema\_versión&gt;** |
+| 1.0.0.0 | ARomeroC | 15.06.21\_10.50 | **Cambios al modulo X sobre funcionalidad X, sin afectación a otros sistemas o modulos. CC\_&lt;Sistema\_versión&gt;** |
 |  |  |  |  |
 
