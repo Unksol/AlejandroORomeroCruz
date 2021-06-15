@@ -14,7 +14,7 @@
 
 ## Consideraciones técnicas
 
-| Libreria | Versión &lt;x.x.x.x.&gt; |
+| Librerias Internas | Versión &lt;x.x.x.x.&gt; |
 | :--- | :--- |
 | AjustesApi | 1.0.1.0 |
 | CalculaGasolinera | 1.0.5.0 |
@@ -29,7 +29,12 @@
 | SigPlus | 2.5.2.0 |
 | ValesApi | 1.0.2.1 |
 | valida-cfd | 1.0.0.0 |
- 
+
+| Dependencias | Descripción | Link
+| :--- | :--- |
+| CarRemo | Se requiere de la funcionalidad de este modulo por la interacción con el seguimiento de numero guia. |  https://github.com/arquitectosoftwarecastores/CasRemo.git|
+| Facturación | En relación directa con el sistema de facturación mediante WebService |  |
+| CastoresBase | 1.0.0.0 |  |
 
 ## Historial de cambios
 
