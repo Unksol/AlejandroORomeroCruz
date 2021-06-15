@@ -32,8 +32,8 @@
 
 | Dependencias | Descripción |
 | :--- | :--- |
-| CarRemo | Se requiere de la funcionalidad de este modulo por la interacción con el seguimiento de numero guia. |
-| Facturación | En relación directa con el sistema de facturación mediante WebService |
+| CarRemo | Se requiere el modulo X, funcionalidad X; con el objetivo de reutilizar el seguimiento por guia.  |
+| Facturación | En relación directa con el sistema de facturación mediante WebService X |
 | CastoresBase | 1.0.0.0 |
 
 ## Historial de cambios
