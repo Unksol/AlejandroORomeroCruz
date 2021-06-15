@@ -38,8 +38,9 @@ Contenido 2
 {% endtab %}
 {% endtabs %}
 
-| Nombre del Sistema: | CyberClientes |
+| Nombre del Sistema: | Versión |
 | :--- | :--- |
+| CyberClientes | 1.0.0.0 |
 | Versión x.x.x.x | 1.0.0.0 |
 | Área | Corporativo |
 | ProductOwner | Desarrollo TI |
