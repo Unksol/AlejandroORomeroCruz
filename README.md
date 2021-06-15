@@ -32,8 +32,8 @@
 
 | Dependencias | Descripción |  |
 | :--- | :--- | :--- |
-| * [CarRemo](https://github.com/arquitectosoftwarecastores/CasRemo) | Se requiere el modulo X, funcionalidad X; con el objetivo de reutilizar el seguimiento por guia. |  |
-| Facturación | En relación directa con el sistema de facturación mediante WebService X |  |
+| [CarRemo](https://github.com/arquitectosoftwarecastores/CasRemo) | Se requiere el modulo X, funcionalidad X; con el objetivo de reutilizar el seguimiento por guia. |  |
+| [Facturación](https://github.com/arquitectosoftwarecastores/Facturacion) | En relación directa con el sistema de facturación mediante WebService X |  |
 | Área de RH | Es necesaria la intervención manual al sistema para el registro de usuarios |  |
 
 ## Historial de cambios
