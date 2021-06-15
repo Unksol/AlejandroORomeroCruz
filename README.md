@@ -43,7 +43,7 @@ Contenido 2
 | CyberClientes | 1.0.0.0 |
 
 
-| Encabezado | Descripción |
+| Titulo | Descripción |
 | :--- | :--- |
 | Área | Corporativo |
 | ProductOwner | Desarrollo TI |
