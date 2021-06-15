@@ -1,4 +1,22 @@
-# README
+| Nombre del Sistema: | Versión |
+| :--- | :--- |
+| CyberClientes | 1.0.0.0 |
+
+| _Titulo_ | _Descripción_ |
+| :--- | :--- |
+| **Área** | Corporativo |
+| **ProductOwner** | Desarrollo TI |
+| **Descripción del Sistema** | Desde este sistema se ingresa al conjunto de sistemas del corporativo, se requiere autenticación para su ingreso y es de un alcance global, ya que se expone ante internet por la pagina principal www.castores.com.mx |
+| **Lenguaje / Versión** | _JAVA 1.6 / IDE:Netbeans IDE 7.1_ |
+| **ID Ficha Técnica** | N/A |
+
+## Historial de cambios
+| Nombre del Sistema: | Versión |
+| :--- | :--- |
+| CyberClientes | 1.0.0.0 |
+
+
+
 
 ## README
 
@@ -38,17 +56,6 @@ Contenido 2
 {% endtab %}
 {% endtabs %}
 
-| Nombre del Sistema: | Versión |
-| :--- | :--- |
-| CyberClientes | 1.0.0.0 |
-
-| _Titulo_ | _Descripción_ |
-| :--- | :--- |
-| **Área** | Corporativo |
-| **ProductOwner** | Desarrollo TI |
-| **Descripción del Sistema** | Desde este sistema se ingresa al conjunto de sistemas del corporativo, se requiere autenticación para su ingreso y es de un alcance global, ya que se expone ante internet por la pagina principal www.castores.com.mx |
-| **Lenguaje / Versión** | _JAVA 1.6 / IDE:Netbeans IDE 7.1_ |
-| **ID Ficha Técnica** | N/A |
 
 {% code title="hello.sh" %}
 ```bash
