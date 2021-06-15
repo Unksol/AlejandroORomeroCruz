@@ -23,6 +23,7 @@ Super-powers are granted randomly so please submit an issue if you're not happy 
 Once you're strong enough, save the world:
 
 | Nombre del Sistema:| CyberClientes |
+| |--- | |--- |
 | Versión x.x.x.x |  1.0.0.0 |
 | Área | Corporativo |
 | ProductOwner | Desarrollo TI |
