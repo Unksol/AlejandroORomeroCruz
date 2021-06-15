@@ -22,7 +22,7 @@ Super-powers are granted randomly so please submit an issue if you're not happy 
 
 Once you're strong enough, save the world:
 
-| Titulo | Titulo 2 |
+| Nombre del sistema | Versión |
 | :--- | :--- |
 | texto | texto |
 | test | test |
@@ -38,7 +38,14 @@ Contenido 2
 {% endtab %}
 {% endtabs %}
 
-\| Nombre del Sistema:\| CyberClientes \| \| \|--- \| \|--- \| \| Versión x.x.x.x \| 1.0.0.0 \| \| Área \| Corporativo \| \| ProductOwner \| Desarrollo TI \| \| Descripción del Sistema \| Desde este sistema se ingresa al conjunto de sistemas del corporativo, se requiere autenticación para su ingreso y es de un alcance global, ya que se expone ante internet por la pagina principal www.castores.com.mx \| \| Lenguaje /Versión \| JAVA 1.6 / IDE:Netbeans IDE 7.1 \| \| ID Ficha Técnica \| N/A \|
+| Nombre del Sistema: | CyberClientes |
+| |--- | |--- |
+| Versión x.x.x.x | 1.0.0.0 |
+| Área | Corporativo |
+| ProductOwner | Desarrollo TI |
+| Descripción del Sistema | Desde este sistema se ingresa al conjunto de sistemas del corporativo, se requiere autenticación para su ingreso y es de un alcance global, ya que se expone ante internet por la pagina principal www.castores.com.mx |
+| Lenguaje Versión | JAVA 1.6 y IDE:Netbeans IDE 7.1 |
+| ID Ficha Técnica | N/A |
 
 {% code title="hello.sh" %}
 ```bash
