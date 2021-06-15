@@ -12,7 +12,16 @@
 | **Lenguaje / Versión** | _JAVA 1.6 / IDE:Netbeans IDE 7.1_ |
 | **ID Ficha Técnica** | N/A |
 
-## Historial de cambios
+### Consideraciones técnicas
+
+| Librerias internas | Librerias externas | Dependencias |
+| :--- | :--- | :--- |
+| 1.0.0.0 | ARomeroC | 15.06.2021\_10.50 |
+|  |  |  |
+
+
+
+### Historial de cambios
 
 | Versión | Autor del cambio | Fecha de cambio | Descripción |
 | :--- | :--- | :--- | :--- |
