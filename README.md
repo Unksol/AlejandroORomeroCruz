@@ -25,6 +25,7 @@ Once you're strong enough, save the world:
 | Nombre del Sistema|  Versión x.x.x.x |
 | :--- | :--- |
 | CyberClientes |  | 1.0.0.0 |
+| :--- | :--- |
 | Area | Corporativo |
 | ProductOwner  | Desarrollo TI  |
 | Descripción del Sistema  | Desde este sistema se ingresa al conjunto de sistemas del corporativo, se requiere autenticación para su ingreso y es de un alcance global, ya que se expone ante internet por la pagina principal www.castores.com.mx |
