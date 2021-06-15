@@ -14,10 +14,6 @@
 
 ## Consideraciones técnicas
 
-{% page-ref page="./" %}
-
-
-
 | Librerias Internas | Versión &lt;x.x.x.x.&gt; | Link |
 | :--- | :--- | :--- |
 | AjustesApi | 1.0.1.0 |  |
