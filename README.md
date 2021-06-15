@@ -32,9 +32,9 @@
 
 | Dependencias | Descripción | Link |
 | :--- | :--- | :--- |
-| CarRemo | Se requiere el modulo X, funcionalidad X; con el objetivo de reutilizar el seguimiento por guia. |  |
+| CarRemo | Se requiere el modulo X, funcionalidad X; con el objetivo de reutilizar el seguimiento por guia. | https://github.com/Unksol/backend-test |
 | Facturación | En relación directa con el sistema de facturación mediante WebService X |  |
-| CastoresBase | 1.0.0.0 |  |
+| Área de RH | Es necesaria la intervención manual al sistema para el registro de usuarios |  |
 
 ## Historial de cambios
 
