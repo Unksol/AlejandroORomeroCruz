@@ -19,15 +19,15 @@
 | AjustesApi | 1.0.1.0 |
 | CalculaGasolinera | 1.0.5.0 |
 | CastoresBase | 1.0.0.0 |
-| CastoresDao | 1.0.32.0 |
-| CDC | 1.0.21.0 |
+| CastoresDao | 1.0.3.2 |
+| CDC | 1.0.2.1 |
 | CDCDao | 1.0.4.0 |
 | CDCModel | 1.0.4.0 |
 | cfdicastorestest | 6.0.0.0 |
 | CriteriaApi | 1.0.0.0 |
 | DataUtilsApi | 1.0.0.0 |
-| SigPlus | 2.52.0.0 |
-| ValesApi | 1.0.21.0 |
+| SigPlus | 2.5.2.0 |
+| ValesApi | 1.0.2.1 |
 | valida-cfd | 1.0.0.0 |
  
 
