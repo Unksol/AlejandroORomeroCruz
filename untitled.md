@@ -14,6 +14,10 @@ $ give me super-powers
 
 Once you're strong enough, save the world:
 
+| Encabezado 1 | Encabezado 2 | Encabezado 3 |
+| :--- | :--- | :--- |
+| test | texto  | texto3 |
+
 {% code title="hello.sh" %}
 ```bash
 # Ain't no code for that yet, sorry
