@@ -44,8 +44,11 @@
 |  |  |  |  |
 
 ## Guías y manuales
+
 | Título | Descripción |
 | :--- | :--- |
 | [Guía de Usuario](https://github.com/arquitectosoftwarecastores/) | Guía para el uso del sistema, orientado para el usuario final. |
-| [Guía de instalación](https://github.com/arquitectosoftwarecastores/) | Guía para desarrolladores.(Requisitos, Dependencias, Indicaciones para compilación. |
+| [Guía de instalación](https://github.com/arquitectosoftwarecastores/) | Guía para desarrolladores.\(Requisitos, Dependencias, Indicaciones para compilación. |
 
+* Licenciamiento:
+* 
