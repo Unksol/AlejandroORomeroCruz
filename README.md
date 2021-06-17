@@ -43,3 +43,9 @@
 | 1.0.0.0 | ARomeroC | 15.06.21\_10.50 | **Cambios al modulo X sobre funcionalidad X, sin afectación a otros sistemas o modulos. CC\_&lt;Sistema\_versión&gt;** |
 |  |  |  |  |
 
+## Guías y manuales
+| Título | Descripción |
+| :--- | :--- |
+| [Guía de Usuario](https://github.com/arquitectosoftwarecastores/) | Guía para el uso del sistema, orientado para el usuario final. |
+| [Guía de instalación](https://github.com/arquitectosoftwarecastores/) | Guía para desarrolladores.(Requisitos, Dependencias, Indicaciones para compilación. |
+
