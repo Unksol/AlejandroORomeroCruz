@@ -1,6 +1,6 @@
 # README
 
-| Nombre del Sistema | Versión &lt;x.x.x.x.&gt; |
+| _Nombre del Sistema_ | _Versión_ &lt;x.x.x.x.&gt; |
 | :--- | :--- |
 | **CyberClientes** | 1.0.0.0 |
 
@@ -14,7 +14,7 @@
 
 ## Consideraciones técnicas
 
-| Librerias Internas | Versión &lt;x.x.x.x.&gt; | Link |
+| _Librerias Internas_ | _Versión_ &lt;x.x.x.x.&gt; | _Link_ |
 | :--- | :--- | :--- |
 | AjustesApi | 1.0.1.0 |  |
 | CalculaGasolinera | 1.0.5.0 |  |
@@ -30,7 +30,7 @@
 | ValesApi | 1.0.2.1 |  |
 | valida-cfd | 1.0.0.0 |  |
 
-| Dependencias | Descripción |  |
+| _Dependencias_ | _Descripción_ |  |
 | :--- | :--- | :--- |
 | [CarRemo](https://github.com/arquitectosoftwarecastores/CasRemo) | Se requiere el modulo X, funcionalidad X; con el objetivo de reutilizar el seguimiento por guia. |  |
 | [Facturación](https://github.com/arquitectosoftwarecastores/Facturacion) | En relación directa con el sistema de facturación mediante WebService X |  |
@@ -38,14 +38,14 @@
 
 ## Historial de cambios
 
-| Versión | Autor del cambio | Fecha de cambio | Descripción |
+| _Versión_ | _Autor del cambio_ | _Fecha de cambio_ | _Descripción_ |
 | :--- | :--- | :--- | :--- |
 | 1.0.0.0 | ARomeroC | 15.06.21\_10.50 | **Cambios al modulo X sobre funcionalidad X, sin afectación a otros sistemas o modulos. CC\_&lt;Sistema\_versión&gt;** |
 |  |  |  |  |
 
 ## Guías y manuales
 
-| Título | Descripción |
+| _Título_ | _Descripción_ |
 | :--- | :--- |
 | [Guía de Usuario](https://github.com/arquitectosoftwarecastores/) | Guía para el uso del sistema, orientado para el usuario final. |
 | [Guía de instalación](https://github.com/arquitectosoftwarecastores/) | Guía para desarrolladores.\(Requisitos, Dependencias, Indicaciones para compilación. |
